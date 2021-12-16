@@ -8,6 +8,8 @@ node_modules
 build
 dist
 .rpt2_cache
+.eslintcache
+.debug.log
 
 # misc
 .DS_Store
